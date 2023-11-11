@@ -6,6 +6,11 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    color: #e2e9f0;
+    text-align: center;
+    margin-top: 20px;
+}
 
 body{
     background: #000000;
