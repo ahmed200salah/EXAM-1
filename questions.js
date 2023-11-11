@@ -12,7 +12,7 @@ let questions = [
 },
 {    numb: 2,
   question: "C:\\Users\\laptop\\desktop> هو root  في المسار التالي يعتبر ال ",
-  answer: "C:\\",
+  answer: "C:\\>",
   options: [
     "C:\\Users\\laptop\\desktop>",
     "C:\\Users\\laptop\\>",
