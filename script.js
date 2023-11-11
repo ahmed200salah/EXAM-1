@@ -159,7 +159,7 @@ function showResult(){
         scoreText.innerHTML = scoreTag;
     }
     else{
-        let scoreTag = '<span>😬 حايب دة احمس<p>'+ userScore +'</p> من <p>'+ questions.length +'</p></span>';
+        let scoreTag = '<span>😬 جايب دة احمس<p>'+ userScore +'</p> من <p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }
 }
