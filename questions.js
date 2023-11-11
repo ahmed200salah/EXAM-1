@@ -1,7 +1,7 @@
 let questions = [
   {
   numb: 1,
-  question: "C:\users\laptop\desktop> md newfolder عند تنفيذ الامر التالي ",
+  question: "C:\Users\laptop\desktop> md newfolder عند تنفيذ الامر التالي ",
   answer: "desktop في  newfolder انشاء فولدر",
   options: [
     "laptop في  newfolder انشاء فولدر",
@@ -11,12 +11,12 @@ let questions = [
   ]
 },
 {    numb: 2,
-  question: "C:\users\laptop\desktop> هو root  في المسار التالي يعتبر ال ",
-  answer: "C:\",
+  question: "C:\Users\laptop\desktop> هو root  في المسار التالي يعتبر ال ",
+  answer: "C:\\",
   options: [
-    "C:\users\laptop\desktop>",
-    "C:\users\laptop\>",
-    "C:\users\>",
+    "C:\Users\laptop\desktop>",
+    "C:\Users\laptop\>",
+    "C:\Users\>",
     "C:\>"
   ]
 },
